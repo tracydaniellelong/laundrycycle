@@ -3,4 +3,7 @@ def full(trash)
   sleep 1
 end
 
-
+def bag(tie)
+  play tie
+  sleep 1
+end
